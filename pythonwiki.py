@@ -285,5 +285,5 @@ bmi = np_weight / np_height ** 2
 
 #Subsetting
 bmi > 23 #For a boolean response
-bmi[bmi > 23] #for only those observations above 23
+bmi[bmi > 19] #for only those observations above 23
 
